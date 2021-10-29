@@ -1,0 +1,14 @@
+{
+    "amount": 76520,
+    "countGoods": 1,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+            "product_name": "Apple MacBook Air (2020)",
+            "product_description": "some",
+            "price": 77850
+        }
+    ]
+}
