@@ -3,28 +3,28 @@
         "id_product": 124,
         "product_img": "https://images.biggeek.ru/1/435/2727/12442-553bigeek_image1.jpeg",
         "product_name": "Apple iPhone 12",
-        "product_description": "some",
+        "product_description": "Год релиза 2021 Процессор A13 Bionic Цвет space gray Память 128 ГБ Оперативная память 8 ГБ",
         "price": 59990
     },
     {
         "id_product": 457,
         "product_img": "https://www.privezite.com/media/images/image_iLnXDzEWPY.JPEG.800x800_q85_upscale.jpg",
         "product_name": "iPad pro 2020",
-        "product_description": "some",
+        "product_description": "Год релиза 2020 Процессор A12 Цвет Space Grey, Память 256ГБ",
         "price": 89990
     },
     {
         "id_product": 123,
         "product_img": "https://telefonplus.ru/wp-content/uploads/2020/11/MX8E2_VW_34FRwatch-44-alum-spacegray-nc-nike6s_VW_34FR_WF_CO_GEO_RU.jpg",
         "product_name": "Apple Watch 5",
-        "product_description": "some",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
         "price": 27900
     },
     {
         "id_product": 456,
         "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
         "product_name": "Apple MacBook Air (2020)",
-        "product_description": "some",
+        "product_description": "Год релиза 2020 Процессор Apple M1 Цвет gold Память 256 ГБ Оперативная память 8 ГБ",
         "price": 77850
     }
 ]
