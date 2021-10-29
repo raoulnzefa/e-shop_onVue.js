@@ -189,6 +189,13 @@ body {
     margin: auto;
     margin-bottom: 30px;
 }
+.info-box{
+    box-shadow: 6px 4px 35px rgb(0 0 0 / 21%);
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
 
 main {
     margin-top: 39px;
