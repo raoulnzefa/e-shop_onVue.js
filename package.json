@@ -1,0 +1,23 @@
+{
+  "name": "e-shop_onvue",
+  "version": "1.0.0",
+  "description": "Easy online store created by me with Vue.js as a my final project on JavaScript course (no webpack version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavDeveloper/e-shop_onVue.js.git"
+  },
+  "author": "Vladislav Redin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavDeveloper/e-shop_onVue.js/issues"
+  },
+  "homepage": "https://github.com/VladislavDeveloper/e-shop_onVue.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
