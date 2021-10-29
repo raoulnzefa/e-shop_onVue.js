@@ -38,6 +38,7 @@ export default {
 
                 <a name="contacts"></a>
                 <h2 class="feturedTitle">Контакты</h2>
+                <div class="info-box">
                 <div class="logo-line"></div>
                 <div class="contacts-info">
                     <div class="left-contacts-info">
@@ -49,8 +50,10 @@ export default {
                         <iframe class='contacts-map' src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7983.032692133516!2d30.261327272906954!3d59.98592060598695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1635189568748!5m2!1sru!2sru" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                     </div>
+                </div>
+
                 
-                <a name="delivery"></a>
+                <div class="info-box"><a name="delivery"></a>
                 <h2 class="feturedTitle">Оплата и доставка</h2>
                 <div class="logo-line"></div>
                 <h3 class='itemsHeader'>Доставка</h3>
@@ -69,8 +72,8 @@ export default {
                     <h3>Оформите кредит от наших партнеров</h3>
                     <h3>Оплата онлайн</h3>
                 </p>
-
-                <a name="guarantee"></a>
+                </div>
+                <div class="info-box"><a name="guarantee"></a>
                 <h2 class="feturedTitle">Гарантия</h2>
                 <div class="logo-line"></div>
                 <h3 class="feturedTitle">На любой товар в нашем Салоне предоставляется гарантия.</h3>
@@ -100,6 +103,7 @@ export default {
                     Для всех устройств компании Apple действует новая политика безопасности и гарантийного обслуживания! При приеме товара клиент ОБЯЗАН отключить функцию «Найти устройство» в настройках iCloud, а также стереть ВСЕ персональные данные.
                     Если клиент воспользуется другим устройством Apple во время ремонта и активирует сервис iCloud, он ОБЯЗАН отключить функцию «Найти устройство»! Если клиент не выполнит данные условия, компания Apple имеет право отказать в гарантийном обслуживании.
                 </p>
+                </div>
             </div class="fetured_items conteiner">
 
     </div>
