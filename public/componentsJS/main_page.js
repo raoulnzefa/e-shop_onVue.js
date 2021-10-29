@@ -37,14 +37,15 @@ export default {
                 </div>
 
                 <a name="contacts"></a>
-                <h2 class="feturedTitle">Контакты</h2>
+                
                 <div class="info-box">
+                <h2 class="feturedTitle">Контакты</h2>
                 <div class="logo-line"></div>
                 <div class="contacts-info">
                     <div class="left-contacts-info">
                         <p class='itemsHeader'>Наш адрес: г.Санкт-петербург, Торфяная дор., 2 корпус 1, ТК "Старая Деревня"</p>
-                        <img src='https://p0.zoon.ru/preview/czhCJwOhDBmLJryXgf9qVA/800x530x85/1/3/1/original_52b024c440c0888d378b4e1e_5f63290e44256.jpg' width='300px'>
-                        <img src='http://retail-loyalty.org/upload/iblock/00c/2d7be4f9c556fe8799c119f3cc30185c.jpg' width='300px'>
+                        <img src='https://p0.zoon.ru/preview/czhCJwOhDBmLJryXgf9qVA/800x530x85/1/3/1/original_52b024c440c0888d378b4e1e_5f63290e44256.jpg' width='270px'>
+                        <img src='http://retail-loyalty.org/upload/iblock/00c/2d7be4f9c556fe8799c119f3cc30185c.jpg' width='270px'>
                     </div>
                     <div class='contacts-info-map'>
                         <iframe class='contacts-map' src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7983.032692133516!2d30.261327272906954!3d59.98592060598695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1635189568748!5m2!1sru!2sru" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
